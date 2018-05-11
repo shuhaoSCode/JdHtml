@@ -53,6 +53,11 @@ body {
     background-color: #f6f6f6;
 }
 
+i {
+    font-family: "icomoon";
+    font-style: normal;
+}
+
 /*头部*/
 header {
     height: 80px;
@@ -76,8 +81,6 @@ header {
 }
 
 .shortcut i {
-    font-family: "icomoon";
-    font-style: normal;
     color: #cccccc;
 }
 
@@ -151,8 +154,6 @@ header {
 }
 
 .form button i {
-    font-family: icomoon;
-    font-style: normal;
     color: #ffffff;
 }
 
@@ -167,5 +168,10 @@ header {
     right: 95px;
     /*居中*/
     line-height: 33px;
+    text-align: center;
+}
+
+.shop-car i {
+
 }
 
