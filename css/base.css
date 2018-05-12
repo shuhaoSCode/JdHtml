@@ -169,9 +169,23 @@ header {
     /*居中*/
     line-height: 33px;
     text-align: center;
+    color: #f10215;
 }
 
 .shop-car i {
+    margin-right: 5px;
+}
 
+.shop-car span {
+    width: 15px;
+    height: 15px;
+    background-color: #f10215;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    right: 33px;
+    font-size: 15px;
+    color: #ffffff;
+    line-height: 15px;
 }
 
